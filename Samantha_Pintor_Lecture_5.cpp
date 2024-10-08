@@ -61,3 +61,22 @@ int main ()
     
     return 0; 
 }
+
+/*
+    Hello. How much money was in your bank account at the start of the day? 
+    100
+    Great. How many bank transactions were done today? 
+    2 
+    Did you use a debit or credit card? Click 1 for debit and 2 for credit. 
+    1
+    What value was the transaction? 
+    12
+    Total amount after debit = 88.00
+    Did you use a debit or credit card? Click 1 for debit and 2 for credit. 
+    2
+    What value was the transaction? 
+    23
+    Total amount after credit = 123.00
+    Final balance = 211.00
+    Have a nice day!
+ */
